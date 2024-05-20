@@ -15,36 +15,41 @@ The creation and implementation of an application integrated with the foreign tr
 <h1 align="center">⚙️Functionalities</h1>
 <div align="center">
   <h3>Login screen</h3>
-  <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/5ec4826a-b0cc-45d5-80b1-ace8416f163e" width="300" height="auto"/>
+  <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/645e8bb3-91a5-49e9-8087-fe0440ca976c" width="300" height="auto"/>
+ 
   <p>After the login screen, the user is redirected to choose or sign in with a Google account</p>
   <hr/>
      <h3>Foreign trade agency home screen</h3>
-      <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/301019a4-f5b4-42cc-9cd2-0f70d4ad64f3" width="300" height="auto"/>
+      <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/d04cea28-d098-4e0b-a9c8-cc75a7b6ff3a" width="300" height="auto"/>
+
   <hr/>
     <h3>User home screen</h3>
-       <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/8de99060-1259-4b22-a61a-dd1acb895aea" width="300" height="auto"/>
+       <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/19d2ddc2-68ab-4c47-9dc8-122738c5fb09" width="300" height="auto"/>
+
    <hr/>
   <h3>Product screen</h3>
-       <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/e64b156e-f2c5-4606-9fd8-efca0a3775aa" width="300" height="auto"/>
+       <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/0885728c-12bf-4879-af2a-947881df5f07" width="300" height="auto"/>
+
+
   <hr/>
   <h3>Category screen</h3>
-       <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/9af1999c-8626-4cbf-b3fe-d3499d03b498" width="300" height="auto""/>
-    <hr/>
+       <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/92e3b42e-bd03-470b-bfb6-aa02e00a33e1" width="300" height="auto""/>
+       <hr/>
   <h3>Explore screen</h3>
-       <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/6a04b2f7-a839-465c-9dde-f5fcacae5841" width="300" height="auto""/>
+       <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/58d3fea2-affd-41b3-bfa2-fbcf68191672" width="300" height="auto""/> 
     <hr/>
   <h3>Profile screen</h3>
-       <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/a1029dc6-547f-4760-ad9a-35d57ef79fe0" width="300" height="auto""/>
+       <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/30a4c1d1-c1e3-419a-9f8d-9a47f56a211f" width="300" height="auto""/>
      <hr/>
   <h3>New product screen</h3>
-       <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/43c1cfb6-a1c3-4061-ae22-a1cb6b6ecd3b" width="300" height="auto""/>
+       <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/5c620a0e-9f10-4929-a458-003329f8a1cf" width="300" height="auto""/>
   <hr/>
   <h3>New product screen - Awaiting agency approval</h3>
-       <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/8583a3f7-1401-4cf4-b2ea-fa67f08fe167" width="300" height="auto""/>
+       <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/f7bdfe76-e0a9-4bf5-8837-5043cba142e0" width="300" height="auto""/>
     <p>Screen state for when the user has not yet been approved to export</p>
   <hr/>
   <h3>Form to request approval</h3>
-       <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/39f2eb51-11f8-4e81-8328-922efd376b31" width="300" height="auto""/>
+       <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/3f4faa3a-6c4a-41a7-82bb-475fbb098ce7" width="300" height="auto""/>
 <br/>
 <br/>
 <hr/>
@@ -72,12 +77,12 @@ $ npx expo start
 <br/>
 
 <p align="center">The following tools were used to build the project:<br/>
-<br/>  
-     <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/e74e2b0e-c858-484e-95a4-da05ee7d1cfb" width="100" height="50""/>
-     <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/04a0539c-7599-49c3-822b-7cd41900a71e" width="100" height="50""/>
-     <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/7d0a0214-8025-40ab-acac-b13d03b1f440" width="100" height="50""/>
-     <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/5279820d-9ed6-46b1-89d8-d43ff13eb67f" width="100" height="50""/>
-    <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/91005506-85c5-4c68-bbed-c853678c441b" width="100" height="50""/>
+<br/> 
+     <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/8d14175f-0c3b-4acf-a403-70182c424406" width="100" height="50""/>
+     <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/bc0bc521-f913-4404-a24c-3c3ead4a7bfb" width="100" height="50""/>
+     <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/3f6d46bf-e8c8-4c99-9e05-def80776b76f" width="100" height="50""/>
+     <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/3d60a998-0cca-4b14-b463-809394d96edf" width="100" height="50""/>
+    <img align="center" src="https://github.com/SahRB/HandiiBR-export-marketplace/assets/79469560/7cb86e7a-98a6-4b48-a36e-69e07940dbaf" width="100" height="50""/>
 
 
 
